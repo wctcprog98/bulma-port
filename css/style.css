@@ -4,9 +4,21 @@ body {
     font-size: 30px;
 }
 
-.button.is-primary.is-outlined {
-    background-color: transparent;
-    border-color: #7510F7;
-    color: #7510F7;
+.column.heading {
+    padding: 0;
 }
 
+.subtitle {
+        font-family: "Open Sans Condensed", sans-serif;
+        font-weight: 300;
+        line-height: 1.5;
+        font-size: 20px;
+    }
+
+
+    #changeColor,
+    button{
+        background: #7510F7;
+      }
+
+   
